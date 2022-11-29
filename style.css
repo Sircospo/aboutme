@@ -102,7 +102,7 @@ justify-content: space-between;
 
 .home{
     display: flex;
-    background: url(img/EMMA1.jpg) no-repeat center;
+    background: url(EMMA1.jpg) no-repeat center;
     background-size: cover;
     height: 100vh;
     min-height: 500px;
